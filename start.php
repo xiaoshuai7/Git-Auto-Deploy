@@ -1,3 +1,4 @@
+#!/usr/bin/env php
 <?php
 $config = require("config.php");
 $php    = $_SERVER['_'];
