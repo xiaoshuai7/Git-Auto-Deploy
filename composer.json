@@ -1,0 +1,14 @@
+{
+    "name": "xiaoshuai7/git-auto-deploy",
+    "description": "Git pulls code automatically",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoshuai",
+            "email": "1305197113@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
